@@ -1,0 +1,10 @@
+{"phnNo":[9916334,9148520],
+"address":"kathraguppe",
+"ename":"Purvith",
+"eid":"TY4122",
+"email":["prvith@ymail.com","purvith@testyantra.com"],
+"spouse":{"semail":"vrudi@gmail.com",
+		  "sphnNo":[123456,89766],
+		  "saddress":"bangalore",
+		  "spousename":"Vrudhi"}
+}

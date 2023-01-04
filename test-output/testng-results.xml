@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="5897" started-at="2023-01-04T11:24:54Z" finished-at="2023-01-04T11:25:00Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="5897" started-at="2023-01-04T11:24:54Z" finished-at="2023-01-04T11:25:00Z">
+      <class name="base_class_API_test_Cases.Update_project">
+        <test-method status="PASS" signature="requestspecBuilder()[pri:0, instance:base_class_API_test_Cases.Update_project@4883b407]" name="requestspecBuilder" is-config="true" duration-ms="2343" started-at="2023-01-04T16:54:52Z" finished-at="2023-01-04T16:54:54Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- requestspecBuilder -->
+        <test-method status="PASS" signature="Update_pro()[pri:0, instance:base_class_API_test_Cases.Update_project@4883b407]" name="Update_pro" duration-ms="5836" started-at="2023-01-04T16:54:55Z" finished-at="2023-01-04T16:55:00Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Update_pro -->
+        <test-method status="PASS" signature="responseSpecBuilder()[pri:0, instance:base_class_API_test_Cases.Update_project@4883b407]" name="responseSpecBuilder" is-config="true" duration-ms="27" started-at="2023-01-04T16:55:00Z" finished-at="2023-01-04T16:55:00Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- responseSpecBuilder -->
+      </class> <!-- base_class_API_test_Cases.Update_project -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
